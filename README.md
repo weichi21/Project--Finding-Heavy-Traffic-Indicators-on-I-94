@@ -1,4 +1,5 @@
 # Project-Finding-Heavy-Traffic-Indicators-on-I-94
+The goal is to find and determine some indicators of heavy traffic.
 
 ### Metro Interstate Traffic Volume
 `Dataset`: Hourly Minneapolis-St Paul, MN traffic volume for westbound I-94. Includes weather and holiday features from 2012-2018.<br>
@@ -14,3 +15,5 @@ Variable Information: <br>
 7. `weather_description`: Longer textual description of the current weather
 8. `date_time`: Hour of the data collected in local CST time
 9. `traffic_volume`: Hourly I-94 ATR 301 reported westbound traffic volume
+
+Learning source: `DataQuest`
